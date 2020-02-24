@@ -1,9 +1,13 @@
 # Ejercicios en Python
 
-###### Descripción
-*En es*
+#### **Descripción**
+En el siguiente proyecto se muestran una serie de ejercicios de programación básica realizados en el lenguaje de programacion Python
+###### **Presentado por**
+-Zoraya Nazarit Gonzalez
+-20152020213
+-Ingenieria de sistema
 
-# El encabezado más largo
+
 ## El segundo encabezado más largo
 
 **Ejemplo**
