@@ -8,10 +8,9 @@ En el siguiente proyecto se muestran una serie de ejercicios de programación b�
 *Ingenieria de sistemas
 
 ## Capitulo 1: Ejercicios simples
-5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y
-altura.
-
-área del triángulo = (base * altura)/2
+5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y altura.
+*área del triángulo = (base * altura)/2*
+URL: [Area de untriangulo](https://github.com/ZorayaNazarit/EjerciciosPython/blob/master/EjerciciosSimples/Area%20de%20un%20triangulo.py).
 11. Escribir un programa que calcula el IVA (16%) de un producto dado su valor de venta sin
 IVA.
 ## Capitulo 2: Ejercicios condicionales
