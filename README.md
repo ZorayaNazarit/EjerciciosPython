@@ -4,7 +4,9 @@
 En el siguiente proyecto se muestran una serie de ejercicios de programación básica realizados en el lenguaje de programacion Python
 ###### **Presentado por**
 *Zoraya Nazarit Gonzalez
+
 *20152020213
+
 *Ingenieria de sistemas
 
 ## Capitulo 1: Simples
